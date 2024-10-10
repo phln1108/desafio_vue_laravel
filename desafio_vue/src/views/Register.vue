@@ -3,8 +3,9 @@
 </script>
 
 <template>
-  <component :is="$route.meta.layout || 'div'" />
+  <h2>register</h2>
 </template>
 
 <style scoped>
+
 </style>
